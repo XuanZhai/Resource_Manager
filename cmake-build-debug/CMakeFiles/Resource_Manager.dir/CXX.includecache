@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/CLion/Resource_Manager/Manager.cpp
+Manager.h
+/mnt/c/CLion/Resource_Manager/Manager.h
+
+/mnt/c/CLion/Resource_Manager/Manager.h
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+Node.h
+/mnt/c/CLion/Resource_Manager/Node.h
+
+/mnt/c/CLion/Resource_Manager/Node.cpp
+Node.h
+/mnt/c/CLion/Resource_Manager/Node.h
+
+/mnt/c/CLion/Resource_Manager/Node.h
+string
+-
+vector
+-
+iostream
+-
+
+/mnt/c/CLion/Resource_Manager/main.cpp
+iostream
+-
+Manager.h
+/mnt/c/CLion/Resource_Manager/Manager.h
+

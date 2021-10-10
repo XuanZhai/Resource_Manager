@@ -1,0 +1,3 @@
+/mnt/c/CLion/Resource_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/CLion/Resource_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/CLion/Resource_Manager/cmake-build-debug/CMakeFiles/Resource_Manager.dir
